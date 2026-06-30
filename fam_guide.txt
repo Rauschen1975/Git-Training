@@ -1,2 +1,3 @@
 ### This is an user guide of Flexiaccount Manager ###
 ### It provisions Telvirt clients automatically and push available SIP accounts in Asterisk to them ###
+### New provisioning hooks wil be provided to retrieve correctly the SIP accounts of users ###

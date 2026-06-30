@@ -1,0 +1,2 @@
+### This is an user guide of Flexiaccount Manager ###
+### It provisions Telvirt clients automatically and push available SIP accounts in Asterisk to them ###
